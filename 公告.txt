@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html><head><title>ipogo 安裝連結</title></head>
+<p style="text-align:center;">
+	<span style="font-size:32px;font-family:Arial;vertical-align:baseline;">測試</span> 
+</p>
